@@ -1,5 +1,6 @@
 # aurelia-typescript-lean-dev
-
+For grapsing the rational behind this repository see: 
+http://blog.opinionatedapps.com/a-lean-aurelia-typescript-deveopment-experience/
 ## Running The App
 
 To run the app, follow these steps.
