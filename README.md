@@ -27,7 +27,7 @@ In this simplified sample we are not using gulp. Instead we use live-server. We 
   ```
 6. Start live-server
   ```shell
-  live-server
+    live-server
   ```
 
 
