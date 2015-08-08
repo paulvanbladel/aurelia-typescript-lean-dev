@@ -1,5 +1,5 @@
 # aurelia-typescript-lean-dev
-For grapsing the rational behind this repository see: 
+For grasping the rational behind this repository see: 
 http://blog.opinionatedapps.com/a-lean-aurelia-typescript-deveopment-experience/
 ## Running The App
 
