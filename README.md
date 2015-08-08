@@ -20,3 +20,14 @@ To run the app, follow these steps.
   ```shell
   jspm install -y
   ```
+5. Install live-server
+In this simplified sample we are not using gulp. Instead we use live-server
+  ```shell
+  npm install live-server -g
+  ```
+6. Start live-server
+  ```shell
+  live-server
+  ```
+
+
