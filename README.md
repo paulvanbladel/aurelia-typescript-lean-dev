@@ -26,6 +26,7 @@ In this simplified sample we are not using gulp. Instead we use live-server. We 
   npm install live-server -g
   ```
 6. Start live-server
+
   ```shell
   live-server
   ```
