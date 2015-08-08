@@ -21,7 +21,7 @@ To run the app, follow these steps.
   jspm install -y
   ```
 5. Install live-server
-In this simplified sample we are not using gulp. Instead we use live-server
+In this simplified sample we are not using gulp. Instead we use live-server. We can do this because we no longer need to compile any files.
   ```shell
   npm install live-server -g
   ```
