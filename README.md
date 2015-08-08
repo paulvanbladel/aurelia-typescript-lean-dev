@@ -5,7 +5,7 @@ http://blog.opinionatedapps.com/a-lean-aurelia-typescript-deveopment-experience/
 
 To run the app, follow these steps.
 
-1. Ensure that [NodeJS](http://nodejs.org/) is installed. This provides the platform on which the build tooling runs.
+1. Ensure that [NodeJS](http://nodejs.org/) is installed. 
 2. From the project folder, execute the following command:
 
   ```shell
